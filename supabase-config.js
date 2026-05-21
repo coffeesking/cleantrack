@@ -15,4 +15,4 @@ const CLEANER_PIN = '5678';
 
 // Claude API key for translations
 // Get from console.anthropic.com
-const CLAUDE_API_KEY = 'YOUR_CLAUDE_API_KEY';
+const CLAUDE_API_KEY = '';
